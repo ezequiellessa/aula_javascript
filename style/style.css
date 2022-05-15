@@ -1,0 +1,32 @@
+
+.button{
+    
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    color: cornflowerblue;
+    background-color: aqua;
+
+    height: auto;
+}
+.button:hover{
+        color: #fff;
+        background-color: red;
+        border-radius: 50px;
+  
+
+    }
+
+.menu{
+   
+display: flex;
+flex-direction: row  ;
+background-color: antiquewhite;
+justify-content:center;
+ 
+  
+}
+#agradecimento {
+    background-color: yellow;
+text-align: center;
+}
